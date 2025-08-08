@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello!&desc=Suhyun%20Github&descAlignY=20)
 
-<img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/:packageName">
+<img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/:Python">
 ## Hi there 👋
 
 <!--
