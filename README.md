@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello!&desc=Suhyun%20Github&descAlignY=20&text=capsule_render&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello!&desc=Suhyun%20Github&descAlignY=20)
 
 
 
