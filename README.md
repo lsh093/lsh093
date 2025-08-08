@@ -4,12 +4,15 @@
 
 <div align="center">
 🛠 Tech Stack 🛠
+</div>
+
+
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/HTML-DB631F?style=flat-square&logo=HTML5&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/CSS-0A6EFF?style=flat-square&logo=CSS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-FFE146?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
-</div>
+
 
 
 
