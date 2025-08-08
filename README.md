@@ -1,6 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello!&desc=Suhyun%20Github&descAlignY=20)
 
+<!--<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>-->
+
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/HTML-148CFF?style=flat-square&logo=CSS&logoColor=white"/></a> 
+
+
 ## Hi there 👋
 
 <!--
