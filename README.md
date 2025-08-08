@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello!&desc=Suhyun%20Github&descAlignY=20)
 
-
+![Static Badge](https://img.shields.io/badge/python)
 
 ## Hi there 👋
 
